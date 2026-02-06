@@ -6,7 +6,6 @@ import { defineConfig } from 'astro/config';
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://pinokin.github.io',
-	base: '/eniten-kiinnostaa',
+	site: 'https://enitenkiinnostaa.fi',
 	integrations: [mdx(), sitemap()],
 });
