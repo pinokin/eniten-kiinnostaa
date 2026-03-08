@@ -3,6 +3,7 @@ title: 'Tiesitkö, että Zoteroon saa tilattua myös RSS-syötteitä?'
 description: 'Tänään opin, etten tarvitsekaan erillistä RSS-lukijaa, koska voin seurata lempiblogejani suoraan Zoterosta.'
 pubDate: 'Feb 06 2026'
 heroImage: '../../assets/blog-placeholder-4.jpg'
+language: 'fi'
 ---
 
 Olen tässä vuosien varrella törmännyt lukuisiin mielenkiintoisiin blogeihin ja tallennellut linkkejä niihin milloin minnekin. Selaimen kirjanmerkkeihin. Pocketiin tai Feedlyyn. Puhelimen muistiinpanoihin. Muistikirjojen sivuille. Ja sinne ne ovat sitten jääneetkin.
