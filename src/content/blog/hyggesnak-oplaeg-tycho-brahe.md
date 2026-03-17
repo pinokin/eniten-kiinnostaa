@@ -1,6 +1,7 @@
 ---
 title: 'Hvem var Tycho Brahe?'
-description: 'Mit oplæg om Tycho Brahe til Hyggesnak forår 2026 kursus.'
+description: 'Mit oplæg om Tycho Brahe til Hyggesnak forår 2026-kursus.'
+ingress: 'Jeg havde alt for meget sjov med at lave baggrundsarbejde til dette oplæg. Først og fremmest elsker jeg astronomi. Jeg havde hørt navnet "Tycho Brahe" og vidste, at han var en dansk astronom, der iagttog himmellegemerne med sine instrumenter. Men det var egentlig alt, hvad jeg vidste om ham. Så jeg ville lære mere.'
 pubDate: 'Mar 09 2026'
 heroImage: '../../assets/blog-placeholder-2.jpg'
 language: 'da'
@@ -43,7 +44,7 @@ Han havde en elg som kæledyr og desværre havde den en uheldig slutning - den b
 
 ## Tychos sidste år
 
-Efter Frederik II’s død i 1588, blev Tycho Brahe uvenner med den nye konge, Christian IV, og forlod Hven og Danmark i 1597. (Christian IV er den samme konge, som byggede [Rundetaarn i København](https://www.rundetaarn.dk/).) Derefter flyttede Tycho til Prag i 1599 og blev udnævnt som kejserlig matematiker hos kejser Rudolf II af Romerriget. Tycho Brahe døde i 1601 i Prag.
+Efter Frederik II’s død i 1588, blev Tycho Brahe uvenner med den nye konge, Christian IV, og forlod Hven og Danmark i 1597. (Christian IV er den samme konge, der byggede [Rundetaarn i København](https://www.rundetaarn.dk/).) Derefter flyttede Tycho til Prag i 1599 og blev udnævnt til kejserlig matematiker hos kejser Rudolf II af Romerriget. Tycho Brahe døde i 1601 i Prag.
 
 ### Hvordan døde Tycho Brahe?
 
@@ -51,32 +52,36 @@ Det var foreslået, at has assistent, Johannes Kepler, forgiftede ham med kviks�
 
 ## Tychos arv
 
-Tycho Brahe lavede utroligt præcise målinger af stjerners positioner uden teleskop. Han designede og byggede selv adskillige sofistikerede måleinstrumenter. Han var i stand til med sine målinger at bevise, at supernovaer og kometer ikke var atmosfæriske fænomener og udfordrede det Ptolemaios’ uforanderlige verdensbillede. Han lagde grunden til systematiske og præcise målinger i videnskaben.
+Tycho Brahe lavede utroligt præcise målinger af stjerners positioner uden teleskop. Han designede og byggede selv adskillige sofistikerede måleinstrumenter. Han var i stand til med sine målinger at bevise, at supernovaer og kometer ikke var atmosfæriske fænomener og udfordrede Ptolemaios’ uforanderlige verdensbillede. Han lagde grunden til systematiske og præcise målinger i videnskaben.
 
 Det mest berømte månekrater er opkaldt efter ham.
 
 ## Ordliste
 
-- almuekvinde - aateliton, tavallinen nainen
-- i kongens gunst - kuninkaan suosiossa
-- formue - varat, varallisuus
-- opførelse - rakentaminen
-- verdenshjørner - maailman kolkat
-- være udsat for - altistua
-- bemærkelsesværdig - merkittävä
-- jura - laki
-- stjernebillede - tähdistö
-- adskillige - useita
-- ubehagelig - epämiellyttävä
-- hidsig - äkkipikainen
-- at opretholde - ylläpitää
-- undersåt - alamainen
-- oprørsk / genstridig - kapinallinen, niskoitteleva, itsepäinen
-- kårde / sværd - miekka
-- afkræfte - kumota
-- slem blærebetændelse - paha kystiitti
-- være i stand til - pystyä
-- uforanderlige verdensbillede - muuttumaton maailmankuva
+- at iagttage / at observere - <span lang="fi">tarkkailla</span>
+- himmellegemer - <span lang="fi">taivaankappaleet</span>
+- almuekvinde - <span lang="fi">aateliton, tavallinen nainen</span>
+- i kongens gunst - <span lang="fi">kuninkaan suosiossa</span>
+- formue - <span lang="fi">varat, varallisuus</span>
+- opførelse - <span lang="fi">rakentaminen</span>
+- verdenshjørner - <span lang="fi">maailman kolkat</span>
+- være udsat for - <span lang="fi">altistua</span>
+- bemærkelsesværdig - <span lang="fi">merkittävä</span>
+- jura - <span lang="fi">laki</span>
+- stjernebillede - <span lang="fi">tähdistö</span>
+- adskillige - <span lang="fi">useita</span>
+- ubehagelig - <span lang="fi">epämiellyttävä</span>
+- hidsig - <span lang="fi">äkkipikainen</span>
+- at opretholde - <span lang="fi">ylläpitää</span>
+- undersåt - <span lang="fi">alamainen</span>
+- oprørsk / genstridig - <span lang="fi">kapinallinen, niskoitteleva, itsepäinen</span>
+- kårde / sværd - <span lang="fi">miekka</span>
+- afkræfte - <span lang="fi">kumota</span>
+- lig - <span lang="fi">ruumis</span>
+- slem blærebetændelse - <span lang="fi">paha kystiitti</span>
+- være i stand til at gøre noget - <span lang="fi">pystyä tekemään jotain</span>
+- at udfordre - <span lang="fi">haastaa</span>
+- uforanderlige verdensbillede - <span lang="fi">muuttumaton maailmankuva</span>
 
 
 ## Kilder

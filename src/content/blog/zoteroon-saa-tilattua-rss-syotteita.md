@@ -1,6 +1,7 @@
 ---
 title: 'Tiesitkö, että Zoteroon saa tilattua myös RSS-syötteitä?'
 description: 'Tänään opin, etten tarvitsekaan erillistä RSS-lukijaa, koska voin seurata lempiblogejani suoraan Zoterosta.'
+ingress: 'Tänään opin, etten tarvitsekaan erillistä RSS-lukijaa, koska voin seurata lempiblogejani suoraan Zoterosta.'
 pubDate: 'Feb 06 2026'
 heroImage: '../../assets/blog-placeholder-4.jpg'
 language: 'fi'
